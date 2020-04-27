@@ -1,0 +1,50 @@
+{
+    "name": "typescript-essentials",
+    "displayName": "Typescript-Essentials",
+    "description": "Typescript essential extensions for visual studio code",
+    "icon": "img/essentials.png",
+    "galleryBanner": {
+        "color": "#007ACC",
+        "theme": "dark"
+    },
+    "license": "LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gydunhn/Typescript-Essentials.git"
+    },
+    "keywords": [
+        "VSC",
+        "VSCode",
+        "Visual Studio",
+        "VSC Essentials",
+        "TypeScript",
+        "Lint",
+        "linter",
+        "TSLint",
+        "Hero",
+        "TypeScript Hero",
+        "Importer",
+        "TypeScript Importer",
+        "Debugger",
+        "Firefox",
+        "Debugger for Firefox",
+        "Essentials",
+        "Gydunhn",
+        "TeamElite",
+        "Team Elite"
+    ],
+    "version": "0.0.1",
+    "publisher": "Gydunhn",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "rbbit.typescript-hero",
+        "pmneo.tsimporter",
+        "firefox-devtools.vscode-firefox-debug"
+    ]
+}
