@@ -25,6 +25,13 @@
         "TypeScript Hero",
         "Importer",
         "TypeScript Importer",
+        "npm",
+        "Intellisense",
+        "Visual Studio IntelliCode",
+        "IntelliCode",
+        "ES6",
+        "Snippets",
+        "JavaScript (ES6) code snippets",
         "Debugger",
         "Firefox",
         "Debugger for Firefox",
@@ -33,8 +40,11 @@
         "TeamElite",
         "Team Elite"
     ],
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Gydunhn",
+    "author": {
+        "name": "Javier Camus"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -45,6 +55,9 @@
         "ms-vscode.vscode-typescript-tslint-plugin",
         "rbbit.typescript-hero",
         "pmneo.tsimporter",
+        "christian-kohler.npm-intellisense",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "xabikos.JavaScriptSnippets",
         "firefox-devtools.vscode-firefox-debug"
     ]
 }
