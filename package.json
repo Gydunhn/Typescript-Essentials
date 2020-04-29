@@ -58,6 +58,7 @@
         "christian-kohler.npm-intellisense",
         "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
-        "firefox-devtools.vscode-firefox-debug"
+        "firefox-devtools.vscode-firefox-debug",
+        "eg2.vscode-npm-script"
     ]
 }
