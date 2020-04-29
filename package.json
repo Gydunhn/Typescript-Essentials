@@ -40,7 +40,7 @@
         "TeamElite",
         "Team Elite"
     ],
-    "version": "0.1.1",
+    "version": "0.2.0",
     "publisher": "Gydunhn",
     "author": {
         "name": "Javier Camus"
@@ -58,6 +58,7 @@
         "christian-kohler.npm-intellisense",
         "VisualStudioExptTeam.vscodeintellicode",
         "xabikos.JavaScriptSnippets",
-        "firefox-devtools.vscode-firefox-debug"
+        "firefox-devtools.vscode-firefox-debug",
+        "eg2.vscode-npm-script"
     ]
 }
