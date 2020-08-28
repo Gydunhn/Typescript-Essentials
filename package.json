@@ -37,10 +37,9 @@
         "Debugger for Firefox",
         "Essentials",
         "Gydunhn",
-        "TeamElite",
-        "Team Elite"
+        "Elite"
     ],
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "Gydunhn",
     "author": {
         "name": "Javier Camus"
