@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2022-10-14
+
+This will be an important change in how this extension pack works, so as not to have imports of other duplicate extensions, therefore the installation of this one will be more efficient.
+
+### Added
+
+* Javascript-Essentials, which already includes:  
+  * npm Intellisense.
+  * Visual Studio IntelliCode.
+  * JavaScript (ES6) code snippets.
+  * Debugger for Firefox.
+
+### Removed
+
+* npm Intellisense.
+* Visual Studio IntelliCode.
+* JavaScript (ES6) code snippets.
+* Debugger for Firefox.
+
 ## [0.2.3] - 2022-10-14
 
 ### Removed
@@ -54,6 +73,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/Typescript-Essentials/tree/develop
+[1.0.0]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.0.0
+[0.2.3]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/0.2.3
 [0.2.2]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/0.2.2
 [0.2.1]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/0.2.1
 [0.2.0]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/0.2.0
