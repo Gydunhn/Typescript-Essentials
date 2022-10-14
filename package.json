@@ -21,6 +21,7 @@
         "Lint",
         "linter",
         "TSLint",
+        "ESLint",
         "Hero",
         "TypeScript Hero",
         "Importer",
@@ -39,7 +40,7 @@
         "Gydunhn",
         "Elite"
     ],
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "Gydunhn",
     "author": {
         "name": "Javier Camus"
