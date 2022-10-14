@@ -40,7 +40,7 @@
         "Gydunhn",
         "Elite"
     ],
-    "version": "0.2.3",
+    "version": "1.0.0",
     "publisher": "Gydunhn",
     "author": {
         "name": "Javier Camus"
@@ -52,13 +52,8 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "ms-vscode.vscode-typescript-tslint-plugin",
         "rbbit.typescript-hero",
         "pmneo.tsimporter",
-        "christian-kohler.npm-intellisense",
-        "VisualStudioExptTeam.vscodeintellicode",
-        "xabikos.JavaScriptSnippets",
-        "firefox-devtools.vscode-firefox-debug",
-        "eg2.vscode-npm-script"
+        "Gydunhn.javascript-essentials"
     ]
 }
