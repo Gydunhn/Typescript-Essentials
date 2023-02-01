@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2023-02-01
+
+### Added
+
+* Find unused exports, A Visual Studio Code extension for displaying all unused exports in a typescript/javascript project.
+
 ## [1.0.1] - 2023-02-01
 
 ### Changed
@@ -79,6 +85,7 @@ This will be an important change in how this extension pack works, so as not to 
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/Typescript-Essentials/tree/develop
+[1.0.2]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.0.2
 [1.0.1]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.0.1
 [1.0.0]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.0.0
 [0.2.3]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/0.2.3

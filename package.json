@@ -66,6 +66,7 @@
 	"extensionPack": [
 		"rbbit.typescript-hero",
 		"pmneo.tsimporter",
+		"iulian-radu-at.find-unused-exports",
 		"Gydunhn.javascript-essentials"
 	]
 }
