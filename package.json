@@ -1,59 +1,71 @@
 {
-    "name": "typescript-essentials",
-    "displayName": "Typescript-Essentials",
-    "description": "Typescript essential extensions for visual studio code",
-    "icon": "img/essentials.png",
-    "galleryBanner": {
-        "color": "#007ACC",
-        "theme": "dark"
-    },
-    "license": "LICENSE.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Gydunhn/Typescript-Essentials.git"
-    },
-    "keywords": [
-        "VSC",
-        "VSCode",
-        "Visual Studio",
-        "VSC Essentials",
-        "TypeScript",
-        "Lint",
-        "linter",
-        "TSLint",
-        "ESLint",
-        "Hero",
-        "TypeScript Hero",
-        "Importer",
-        "TypeScript Importer",
-        "npm",
-        "Intellisense",
-        "Visual Studio IntelliCode",
-        "IntelliCode",
-        "ES6",
-        "Snippets",
-        "JavaScript (ES6) code snippets",
-        "Debugger",
-        "Firefox",
-        "Debugger for Firefox",
-        "Essentials",
-        "Gydunhn",
-        "Elite"
-    ],
-    "version": "1.0.0",
-    "publisher": "Gydunhn",
-    "author": {
-        "name": "Javier Camus"
-    },
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "rbbit.typescript-hero",
-        "pmneo.tsimporter",
-        "Gydunhn.javascript-essentials"
-    ]
+	"name": "typescript-essentials",
+	"displayName": "Typescript-Essentials",
+	"description": "Typescript essential extensions for visual studio code",
+	"icon": "img/essentials.png",
+	"galleryBanner": {
+		"color": "#007ACC",
+		"theme": "dark"
+	},
+	"license": "LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gydunhn/Typescript-Essentials.git"
+	},
+	"keywords": [
+		"VSC",
+		"VSCode",
+		"Visual Studio",
+		"Visual Studio Code",
+		"VSC Essentials",
+		"Essentials",
+		"Esenciales",
+		"Essenciais",
+		"Essentiel",
+		"Essenziali",
+		"Essentielles",
+		"Esencajoj",
+		"必需品",
+		"골자",
+		"अत्यावश्यकम्",
+		"ملزومات",
+		"TypeScript",
+		"Lint",
+		"linter",
+		"TSLint",
+		"ESLint",
+		"Hero",
+		"TypeScript Hero",
+		"Importer",
+		"TypeScript Importer",
+		"npm",
+		"Intellisense",
+		"Visual Studio IntelliCode",
+		"IntelliCode",
+		"ES6",
+		"Snippets",
+		"JavaScript (ES6) code snippets",
+		"Debugger",
+		"Firefox",
+		"Debugger for Firefox",
+		"Essentials",
+		"Gydunhn",
+		"Elite"
+	],
+	"version": "1.0.0",
+	"publisher": "Gydunhn",
+	"author": {
+		"name": "Javier Camus"
+	},
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"rbbit.typescript-hero",
+		"pmneo.tsimporter",
+		"Gydunhn.javascript-essentials"
+	]
 }
