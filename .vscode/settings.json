@@ -12,9 +12,7 @@
 	"workbench.tree.expandMode": "singleClick",
 	"workbench.tree.renderIndentGuides": "always",
 	"workbench.tree.indent": 6,
-	"editor.formatOnType": false,
 	"editor.formatOnSave": true,
-	"editor.formatOnPaste": true,
 	"[markdown]": {
 		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
 	},
@@ -250,7 +248,6 @@
 	"path-intellisense.showHiddenFiles": true,
 	"formattingToggle.affects": [
 		"editor.formatOnPaste",
-		"editor.formatOnSave",
 		"editor.formatOnType"
 	],
 	/**
