@@ -126,3 +126,5 @@ This extension pack includes the following extensions:
 [typescript-eslint]: https://typescript-eslint.io/
 [TSLint GitHub]: https://github.com/palantir/tslint
 [Palantir Technologies]: https://github.com/palantir
+[here]: /.vscode/settings.json
+[settings.json]: /.vscode/settings.json
