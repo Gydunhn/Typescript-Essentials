@@ -48,7 +48,6 @@
 		"Debugger",
 		"Firefox",
 		"Debugger for Firefox",
-		"Find unused exports",
 		"unused",
 		"exports",
 		"Essentials",
@@ -69,7 +68,6 @@
 	"extensionPack": [
 		"rbbit.typescript-hero",
 		"pmneo.tsimporter",
-		"iulian-radu-at.find-unused-exports",
 		"Gydunhn.javascript-essentials"
 	]
 }
