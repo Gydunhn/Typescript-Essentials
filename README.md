@@ -45,7 +45,6 @@ It is strongly recommended that these settings be used in your workspace. You mu
 	"path-intellisense.showHiddenFiles": true,
 	"formattingToggle.affects": [
 		"editor.formatOnPaste",
-		"editor.formatOnSave",
 		"editor.formatOnType"
 	],
 	/**
