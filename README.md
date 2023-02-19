@@ -126,3 +126,7 @@ This extension pack includes the following extensions:
 [typescript-eslint]: https://typescript-eslint.io/
 [TSLint GitHub]: https://github.com/palantir/tslint
 [Palantir Technologies]: https://github.com/palantir
+[here]: /.vscode/settings.json
+[settings.json]: /.vscode/settings.json
+[Debugger for Firefox]: https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug
+[reading its documentation]: https://github.com/firefox-devtools/vscode-firefox-debug
