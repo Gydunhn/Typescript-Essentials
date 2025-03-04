@@ -115,6 +115,7 @@ This will be an important change in how this extension pack works, so as not to 
   * Created extension pack
 
 [Unreleased]: https://github.com/Gydunhn/Typescript-Essentials/tree/develop
+[1.1.3]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.1.3
 [1.1.2]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.1.2
 [1.1.1]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.1.1
 [1.1.0]: https://github.com/Gydunhn/Typescript-Essentials/releases/tag/1.1.0
