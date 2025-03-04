@@ -34,8 +34,6 @@
 		"linter",
 		"TSLint",
 		"ESLint",
-		"Hero",
-		"TypeScript Hero",
 		"Importer",
 		"TypeScript Importer",
 		"npm",
@@ -66,7 +64,6 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"rbbit.typescript-hero",
 		"pmneo.tsimporter",
 		"Gydunhn.javascript-essentials"
 	]

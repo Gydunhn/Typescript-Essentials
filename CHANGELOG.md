@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 # [Unreleased]
 
+### Removed
+
+* The TypeScript Hero extension is removed because it is deprecated and is no longer being used.
+
 ## [1.1.2] - 2023-02-19
 
 ### Fixed
