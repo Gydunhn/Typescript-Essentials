@@ -14,6 +14,7 @@
 	},
 	"keywords": [
 		"VSC",
+		"Code",
 		"VSCode",
 		"Visual Studio",
 		"Visual Studio Code",
@@ -29,6 +30,10 @@
 		"골자",
 		"अत्यावश्यकम्",
 		"ملزومات",
+		"Frontend",
+		"Web",
+		"Developer",
+		"Web Developer",
 		"TypeScript",
 		"Lint",
 		"linter",
@@ -48,11 +53,17 @@
 		"Debugger for Firefox",
 		"unused",
 		"exports",
-		"Essentials",
-		"Gydunhn",
-		"Elite"
+		"Total",
+		"Total TypeScript",
+		"Pretty",
+		"Errors",
+		"Pretty Errors",
+		"Pretty TypeScript Errors",
+		"Toolbox",
+		"TypeScript Toolbox",
+		"Gydunhn"
 	],
-	"version": "1.1.3",
+	"version": "1.2.0",
 	"publisher": "Gydunhn",
 	"author": {
 		"name": "Javier Camus"
@@ -64,7 +75,10 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
+		"Gydunhn.javascript-essentials",
 		"pmneo.tsimporter",
-		"Gydunhn.javascript-essentials"
+		"mattpocock.ts-error-translator",
+		"yoavbls.pretty-ts-errors",
+		"DSKWRK.vscode-generate-getter-setter"
 	]
 }
