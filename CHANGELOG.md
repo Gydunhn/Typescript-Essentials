@@ -1,4 +1,4 @@
-# Change Log 
+# Change Log
 
 All notable changes to the Typescript Essentials - Extension Pack for Visual Studio Code will be documented in this file.
 
@@ -11,9 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-* Total TypeScript (ts-error-translator) - Proporcionando mejores mensajes de error para TypeScript.
-* Pretty TypeScript Errors - Mejora la visualización de errores de TypeScript, haciéndolos más legibles.
-* TypeScript Toolbox (Generate Getter Setter) - Facilita la generación de getters/setters y autocompletado para TypeScript.
+* Total TypeScript, By Matt Pocock - Providing better error messages for TypeScript.
+* Pretty TypeScript Errors, By yoavbls - Improves TypeScript error visualization, making them more readable.
+* TypeScript Toolbox, By DSKWRK - Facilitates getter/setter generation and autocompletion for TypeScript.
 
 ## [1.1.3] - 2025-03-03
 
